@@ -1,0 +1,20 @@
+﻿body
+{
+    background-image:url('photo.jpg');
+}
+h3{
+    background-color:darkgreen;
+    color:lightyellow;
+    padding: 60px;
+}
+h1{
+    background-color:black;
+    color:white;
+    padding: 50px;
+}
+button{
+    background-color: cyan;
+    font-size: 20px;
+    border-radius: 12px;
+    width: 50%;
+}

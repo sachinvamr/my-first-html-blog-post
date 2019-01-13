@@ -1,0 +1,14 @@
+﻿body {
+    background-color:aqua;
+}
+h1 {
+  background-color: lightgreen;
+  text-align:left;
+}
+tr{
+    text-align:left;
+    border-width: 500px;
+}
+thead{
+     background-color: White;
+}
