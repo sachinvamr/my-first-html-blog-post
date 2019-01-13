@@ -1,0 +1,10 @@
+﻿body {
+}
+th,td{
+  border:5px solid yellow;
+  padding: 9px;
+}
+th{
+  background-color: #ffffff;
+  color: gray;
+}
